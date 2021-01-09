@@ -1,0 +1,14 @@
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\Server.exe.config
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\Server.exe
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\Server.pdb
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\EntityFramework.dll
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\EntityFramework.xml
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vova\source\repos\TCP_Chat\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vova\source\repos\TCP_Chat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Vova\source\repos\TCP_Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Vova\source\repos\TCP_Chat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Vova\source\repos\TCP_Chat\Server\obj\Debug\Server.exe
+C:\Users\Vova\source\repos\TCP_Chat\Server\obj\Debug\Server.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="Client.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="RegisterWindow" Height="300" Width="400">
+    
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel Orientation="Vertical">
+                <TextBox materialDesign:HintAssist.Hint="Login" Width="100" Margin="5" Text="{Binding ClientLoginUI, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                <TextBox materialDesign:HintAssist.Hint="Name" Width="100" Margin="5" Text="{Binding ClientNameUI, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                <TextBox materialDesign:HintAssist.Hint="Password" Width="100" Margin="5" Text="{Binding ClientPasswordUI, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            </StackPanel>
+            <Button Style="{StaticResource MaterialDesignFlatButton}" Margin="5" Command="{Binding Register_cm}">Register</Button>
+        </StackPanel>
+    </Grid>
+</Window>

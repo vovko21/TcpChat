@@ -1,0 +1,17 @@
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\BLL.dll.config
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\BLL.dll
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\BLL.pdb
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\Server.exe
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\Server.pdb
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\Server.exe.config
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Vova\source\repos\TCP_Chat\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vova\source\repos\TCP_Chat\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Vova\source\repos\TCP_Chat\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vova\source\repos\TCP_Chat\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Vova\source\repos\TCP_Chat\BLL\obj\Debug\BLL.dll
+C:\Users\Vova\source\repos\TCP_Chat\BLL\obj\Debug\BLL.pdb
